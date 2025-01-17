@@ -1,0 +1,75 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+}
+
+
+nav {
+    background-color: #072227;
+}
+
+.navbar {
+    display: flex;
+    background-color: #072227;
+    padding: 15px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar .beranda {
+    color: white;
+    text-decoration: none;
+    padding: 17px;
+    font-size: 32px;
+    text-align: center;
+    margin-right: 32px;
+    position: relative;
+}
+
+.navbar .beranda:hover {
+    background-color: white;
+    color: black;
+    border-radius: 50px;
+}
+
+.navbar .profil {
+    color: white;
+    text-decoration: none;
+    padding: 17px;
+    font-size: 32px;
+    text-align: center;
+    margin-right: 550px;
+    position: relative;
+}
+
+.navbar .profil:hover {
+    background-color: white;
+    color: black;
+    border-radius: 50px;
+}
+
+.logo img {
+    height: 32px;
+}
+
+.navbar .navlogo {
+    padding: 17px;
+    margin-right: 32px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+.navbar .navinput {
+    padding: 25px;
+    color: white;
+}
+
+i {
+    margin-left: 20px;
+}
+
+.navbar .plus {
+    padding: 25px;
+    color: white;
+}
