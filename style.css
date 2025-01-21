@@ -6,12 +6,12 @@ body{
 
 
 nav {
-    background-color: #072227;
+    background-color: #4C585B;
 }
 
 .navbar {
     display: flex;
-    background-color: #072227;
+    background-color: #4C585B;
     padding: 15px;
     position: sticky;
     top: 0;
@@ -44,7 +44,7 @@ nav {
 }
 
 .logo img {
-    height: 50px;
+    height: 60px;
 }
 
 input {
