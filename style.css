@@ -97,6 +97,7 @@ i {
     font-size: 90px;
     text-shadow: 10px 10px 10px black;
     margin: 0;
+    margin-top:-30%;
 }
 
 .beranda h3 {
@@ -107,4 +108,5 @@ i {
 
 .beranda p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 10px 10px 5px black;
 }
