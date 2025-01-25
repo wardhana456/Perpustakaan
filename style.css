@@ -110,3 +110,11 @@ i {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-shadow: 10px 10px 5px black;
 }
+
+.isi {
+    text-align: center;
+}
+
+.isi h1 {
+    color: #00388C;
+}
