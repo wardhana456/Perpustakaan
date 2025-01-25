@@ -71,50 +71,40 @@ i {
 }
 
 .beranda {
-    height: 100vh;
-    background-image: url('foto/beranda-crop.jpg');
-    background-size: cover;
-    border-radius: 2%;
-    margin-top: -50px;
+    position: relative;
+    text-align: center;
+    color: white;
 }
 
-.beranda .text-beranda {
-    margin-top: -260px;
-    position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-  text-align: center;
-  font-size: 130px;
-  white-space: nowrap;
-  text-shadow: 10px 10px 10px black;
+.beranda img {
+    width: 100%;
+    height: auto;
 }
 
-.beranda .text-beranda2 {
-    margin-top: -140px;
+.beranda .judul {
     position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-  text-align: center;
-  font-size: 50px;
-  white-space: nowrap;
-  text-shadow: 10px 10px 10px black;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
-.beranda .text-beranda3 {
-    margin-top: -30px;
-    position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-  text-align: center;
-  font-size: 23px;
-  white-space: nowrap;
-  text-shadow: 20px 10px 10px black;
-  font-weight: 100;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+.beranda h1 {
+    font-size: 90px;
+    text-shadow: 10px 10px 10px black;
+    margin: 0;
+}
+
+.beranda h3 {
+    font-size: 40px;
+    text-shadow: 10px 10px 10px black;
+    margin: 0;
+}
+
+.beranda p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
