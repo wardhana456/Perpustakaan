@@ -133,6 +133,7 @@ i {
     justify-content: center;
     object-fit: cover;
     margin-bottom: 80px;
+    flex-wrap: wrap;
 }
 .card {
     background-color: #F6F5F2;
