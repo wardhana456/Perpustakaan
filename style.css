@@ -122,6 +122,10 @@ i {
     color: #00388C;
 }
 
+.judul span {
+    color: #000000;
+}
+
 .judul2 {
     text-align: start;
     margin-left: 50px;
