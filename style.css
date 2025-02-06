@@ -115,7 +115,7 @@ i {
 .judul {
     text-align: center;
     margin-bottom: 100px ;
-    font-size: 2vw;
+    font-size: 1.5vw;
 }
 
 .judul h1 {
@@ -125,8 +125,8 @@ i {
 .judul2 {
     text-align: start;
     margin-left: 50px;
-    font-size: 2vw;
-    margin-bottom: 8vh;
+    font-size: 1.5vw;
+    margin-bottom: 4vh;
 }
 
 .wadah-buku {
@@ -191,6 +191,6 @@ i {
 .judul3 {
     text-align: start;
     margin-left: 50px;
-    font-size: 2vw;
-    margin-bottom: 8vw;
+    font-size: 1.5vw;
+    margin-bottom: 4vw;
 }
